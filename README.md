@@ -1,2 +1,3 @@
 # wireless-physical-layer-security
-WPLS WS 2024 / 2025
+
+WPLS Praktikum WS 2024 / 2025
